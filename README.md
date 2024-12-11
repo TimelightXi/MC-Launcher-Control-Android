@@ -1,2 +1,2 @@
-# Fold-Craft-Launcher-Key-layout
+# Launcher-control-layout
 通用按键布局
